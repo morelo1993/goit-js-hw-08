@@ -15,13 +15,15 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/morelo1993/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
-    "lodash.throttle": "^4.1.1",
+    "lodash": "^4.17.21",
     "modern-normalize": "^1.1.0",
     "simplelightbox": "^2.14.1",
+    "validator": "13.9.0",
+    "vimeo": "^2.3.1",
     "yarn": "^1.22.19"
   },
   "devDependencies": {
