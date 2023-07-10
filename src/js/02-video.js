@@ -1,4 +1,4 @@
-import throttle from './lodash.throttle';
+import throttle from '/lodash.throttle';
 import Player from '@vimeo/player';
 
 let frame = document.getElementById('vimeo-player');
