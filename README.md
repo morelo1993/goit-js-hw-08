@@ -1,1 +1,1 @@
-# goit-js-hw-08
+TAREA 8 JS
